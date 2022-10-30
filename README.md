@@ -2,7 +2,7 @@
 
 ##### [The People of the Hawaiian Islands](https://public.tableau.com/views/BIProject_16636527150260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-##### Of the visual programs in my course, we continued to spend more time in Tableau and so it was what eventually led to the tool of choice for creating my second dashboard for the final presentation. 
+##### Of the visual programs in my course, we continued to spend more time in Tableau and so it was what eventually led to the tool of choice for creating my second dashboard for the final presentation. We were provided with a few pre-selected datasets and I chose to use the 2020 Census. 
 
 ##### In addition to the dataset provided in Kaggle, I also went directly to the state government website to pull information that I couldn’t find in the original dataset. The Census provided data for the different counties: Kauai, Honolulu, Maui, and Hawaii county. There is a 5th county called Kawalao, but in the Census that county is included with Maui because of how small it is and it's next to Maui; it’s the 2nd smallest county in the US based on population.
 
