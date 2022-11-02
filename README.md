@@ -16,6 +16,7 @@
 - ##### Summary tiles 
 - ##### Butterfly graph to compare population by gender
 - ##### Bar graph to compare population by race
-- ##### Bubble graph to depic where majority of consumer spending is going
+- ##### Area graph to show trend through the decades
+- ##### Bubble graph to depict where majority of consumer spending is going
 
 ##### Using the island chain as the main filter involved making sure all tables had a common key, which would be the assigned county. Probably the most difficult elemtents were the summary tiles and butterfly graph because there were multiple modifications needed to get it visually the way I wanted it. 
