@@ -12,7 +12,7 @@
 
 ##### Features on my dashboard:
 - ##### Island chain to act as main filter
-- ##### Changing dashboard title
+- ##### The changing dashboard title
 - ##### Summary tiles 
 - ##### Butterfly graph to compare population by gender
 - ##### Bar graph to compare population by race
